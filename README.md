@@ -1,7 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/horseinthesky">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=horseinthesky&show_icons=true&hide_title=true&hide_border=true&card_width=350&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/horseinthesky">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horseinthesky&hide_title=true&hide_border=true&card_width=400&hide=javascript,vim%20script" />
 </a>
 <!-- [![horseinthesky's GitHub stats](https://github-readme-stats.vercel.app/api?username=horseinthesky&show_icons=true&hide_title=true&hide_border=true&card_width=500&include_all_commits=true&count_private=true)](https://github.com/horseinthesky) -->
